@@ -32,8 +32,9 @@ Engage in immersive interactions like ordering virtual drinks and snacks, adding
 
 <img src="https://avatars.githubusercontent.com/u/120298008?v=4" alt="Image Description" width="150" style="border-radius: 50%;">
 
-**Name:** Jan Ivn  Anthony Conde
-**Email:** aybanyan@gmail.com
+## About the Author
+- **Name:** Jan Ivn  Anthony Conde
+- **Email:** aybanyan@gmail.com
 
 <!DOCTYPE html>
 <html lang="en">
