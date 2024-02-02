@@ -32,15 +32,15 @@ Engage in immersive interactions like ordering virtual drinks and snacks, adding
 
 <img src="https://avatars.githubusercontent.com/u/120298008?v=4" alt="Image Description" width="150" style="border-radius: 50%;">
 
-Name: **Jan Ivn  Anthony Conde**
-Email **aybanyan@gmail.com**
+**Name:** Jan Ivn  Anthony Conde
+**Email:** aybanyan@gmail.com
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Social Icons</title>
+    <title></title>
 </head>
 <body>
 
